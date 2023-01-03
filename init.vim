@@ -2,6 +2,9 @@ set langmenu=en_US.UTF-8
 
 syntax on
 
+set splitbelow
+set splitright
+
 set number
 set nowrapscan
 set incsearch
