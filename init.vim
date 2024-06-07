@@ -14,4 +14,4 @@ set shiftwidth=4
 set expandtab
 set guifont=DejaVu\ Sans\ Mono\ for\ Powerline:h24
 
-inoremap ` {}<Esc>i<CR><Esc>koi<Esc>j<C-S-v><S-%>=j<S-$>xa
+inoremap {{ {}<Esc>i<CR><Esc>koi<Esc>j<C-S-v><S-%>=j<S-$>xa
